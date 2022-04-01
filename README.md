@@ -2,7 +2,8 @@
 An IOS app that shows big 6 different animals from different National Parks from Africa, App available for mactosh. 
 Africa was developed using SwiftUI
 
-[![Watch the video](https://youtu.be/yEB7ps3xcxM)](https://youtu.be/yEB7ps3xcxM)
+## Video
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/yEB7ps3xcxM)
 
 ## Running the project
 > ### App testing
