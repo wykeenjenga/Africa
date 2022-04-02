@@ -16,7 +16,17 @@ Africa was developed using SwiftUI
 - Clonning the repo using the command ``` git clone https://github.com/wykeenjenga/Africa.git```
 - There we go
 
-## Screenshots
+
+## macOS Screenshots
+<img width="1440" alt="Screen Shot 2022-04-02 at 10 12 44" src="https://user-images.githubusercontent.com/46722362/161371693-520e4697-408f-4638-820e-cb1999bd2a5a.png">
+<img width="1440" alt="Screen Shot 2022-04-02 at 10 11 46" src="https://user-images.githubusercontent.com/46722362/161371704-4109076f-a8e2-4f80-a47b-c053005bde8e.png">
+<img width="1440" alt="Screen Shot 2022-04-02 at 10 11 27" src="https://user-images.githubusercontent.com/46722362/161371720-15d7c45c-b673-4697-baa7-4fdf1dcf8756.png">
+<img width="1440" alt="Screen Shot 2022-04-02 at 10 11 01" src="https://user-images.githubusercontent.com/46722362/161371723-4eccd18e-a065-459b-b8aa-5645553b14a3.png">
+      
+
+
+
+## Screenshots for Iphone
 
 <img src="https://user-images.githubusercontent.com/46722362/161338459-32ab8175-d0a5-4e77-86e6-0c67e9d8185c.png"
       data-canonical-src="https://user-images.githubusercontent.com/46722362/161338459-32ab8175-d0a5-4e77-86e6-0c67e9d8185c.png"
