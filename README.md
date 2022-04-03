@@ -2,6 +2,13 @@
 An IOS app that shows big 6 different animals from different National Parks from Africa, App available for mactosh. 
 Africa was developed using SwiftUI
 
+> - decode a JSON file and fetch data with SwiftUI
+> - GRID layout with SwiftUI 2 How to use CODABLE, EXTENSION, and GENERICS
+> - play VIDEO files in SwiftUI framework
+> - MAP with ANNOTATIONS in SwiftUI
+> - optimize the app’s layout for iPad screens
+> - How to transfer an iPad app to a desktop app with MAC CATALYST Learn how to create a motion animation programmatically
+
 ## Video
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/yEB7ps3xcxM)
 
