@@ -16,6 +16,14 @@ Africa was developed using SwiftUI
 - Clonning the repo using the command ``` git clone https://github.com/wykeenjenga/Africa.git```
 - There we go
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+
+<a href='https://ko-fi.com/wycliffn2291' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+Still in Active Development.
+
 
 ## macOS Screenshots
 <img width="1440" alt="Screen Shot 2022-04-02 at 10 12 44" src="https://user-images.githubusercontent.com/46722362/161371693-520e4697-408f-4638-820e-cb1999bd2a5a.png">
