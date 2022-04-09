@@ -7,7 +7,7 @@ Africa was developed using SwiftUI
 > - play VIDEO files in SwiftUI framework
 > - MAP with ANNOTATIONS in SwiftUI
 > - optimize the app’s layout for iPad screens
-> - How to transfer an iPad app to a desktop app with MAC CATALYST Learn how to create a motion animation programmatically
+> - Transfer an iPad app to a desktop app with MAC CATALYST
 
 ## Video
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/yEB7ps3xcxM)
