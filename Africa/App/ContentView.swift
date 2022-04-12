@@ -59,11 +59,16 @@ struct ContentView: View {
                 
                 if !isGridViewActive {
                     List {
+                        
+                        //MARK: - top part
+                        
                         CoverImageView()
                             .frame(height: 300)
                             .listRowInsets(EdgeInsets(top: 0, leading: 0,
                                                       bottom: 0, trailing: 0))
                         
+                        
+                        //MARK: - animal list
                         ForEach(animals){ animal in
                             NavigationLink(destination: AnimalDetaileView(animal: animal)) {
                                 
@@ -71,7 +76,7 @@ struct ContentView: View {
                             
                             }
                             
-                        }//loop
+                        }//loop animals in a list
                         
                         
                         CreditsView()
@@ -113,7 +118,7 @@ struct ContentView: View {
                             isGridViewActive = false
                             haptics.impactOccurred()
                         }){
-                            Image(systemName: "square.fill.text.grid.1X2")
+                            Image(systemName: "square.grid.1x2")
                                 .font(.title2)
                                 .foregroundColor(.accentColor)
                                 .foregroundColor(isGridViewActive ? .primary : .accentColor)

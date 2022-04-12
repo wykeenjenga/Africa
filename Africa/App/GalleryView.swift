@@ -71,15 +71,14 @@ struct GalleryView: View {
                         Image(item.image)
                             .resizable()
                             .scaledToFit()
-//                            .clipShape(Circle())
-//                            .overlay(Circle().stroke(Color.accentColor, lineWidth: 1))
-                            .frame(width: 100, height: 50, alignment: .center)
+                            .clipShape(Circle())
+                            .overlay(Circle().stroke(Color.accentColor, lineWidth: 1))
+            
                             .cornerRadius(12)
                             .onTapGesture {
                                 haptics.impactOccurred()
                                 selectedAnimal = item.image
                             }
-                        
                         
                         
                     }//loop
