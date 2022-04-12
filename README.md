@@ -2,6 +2,13 @@
 An IOS app that shows big 6 different animals from different National Parks from Africa, App available for mactosh. 
 Africa was developed using SwiftUI
 
+> - decode a JSON file and fetch data with SwiftUI
+> - GRID layout with SwiftUI 2 How to use CODABLE, EXTENSION, and GENERICS
+> - play VIDEO files in SwiftUI framework
+> - MAP with ANNOTATIONS in SwiftUI
+> - optimize the app’s layout for iPad screens
+> - Transfer an iPad app to a desktop app with MAC CATALYST
+
 ## Video
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/yEB7ps3xcxM)
 
@@ -15,6 +22,14 @@ Africa was developed using SwiftUI
 ## Installation by Cloning project to xcode
 - Clonning the repo using the command ``` git clone https://github.com/wykeenjenga/Africa.git```
 - There we go
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+
+<a href='https://ko-fi.com/wycliffn2291' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+Still in Active Development.
 
 
 ## macOS Screenshots
